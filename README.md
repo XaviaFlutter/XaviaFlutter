@@ -2,22 +2,13 @@
 
 Энтузиаст, самоучка и начинающий Flutter-разработчик.
 ---
-<div style="display: flex; align-items: center; justify-content: space-between;">
+| Навыки | ![Sentry Engineer GIF](assets/sentry-engineer.gif) |
+|--------|:----------------------------------------------------:|
+| 🛠 **Flutter** |                                              |
+| 🛠 **Adobe Photoshop** |                                    |
+| 🛠 **Adobe Illustrator** |                                  |
+| 🛠 **Figma** |                                            |
 
-  <div style="flex: 1; padding-right: 20px;">
-    <h2>🛠 Навыки</h2>
-    <ul>
-      <li><strong>Flutter</strong></li>
-      <li><strong>Adobe Photoshop</strong></li>
-      <li><strong>Adobe Illustrator</strong></li>
-      <li><strong>Figma</strong></li>
-    </ul>
-  </div>
-
-  <div style="flex: 0 0 auto;">
-    <img src="assets/sentry-engineer.gif" alt="Sentry Engineer GIF" width="250px" style="float: right;">
-  </div>
-</div>
 
 
 
