@@ -2,12 +2,10 @@
 
 Энтузиаст, самоучка и начинающий Flutter-разработчик.
 ---
-| Навыки | ![Sentry Engineer GIF](assets/sentry-engineer.gif) |
-|--------|:----------------------------------------------------:|
-| 🛠 **Flutter** |                                              |
-| 🛠 **Adobe Photoshop** |                                    |
-| 🛠 **Adobe Illustrator** |                                  |
-| 🛠 **Figma** |                                            |
+🛠 **Навыки**  
+**Flutter**, **Adobe Photoshop**, **Adobe Illustrator**, **Figma**  
+![Sentry Engineer GIF](assets/sentry-engineer.gif)
+
 
 
 
