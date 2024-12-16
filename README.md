@@ -1,4 +1,6 @@
-## Hi there 👋
+![баннер](assets/profile_banner.png)
+
+## Всем ку 
 
 <!--
 **XaviaFlutter/XaviaFlutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
