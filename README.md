@@ -2,9 +2,9 @@
 
 Энтузиаст, самоучка и начинающий Flutter-разработчик.
 ---
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: grid; grid-template-columns: 1fr auto; align-items: center;">
 
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="padding-right: 20px;">
     <h2>🛠 Навыки</h2>
     <ul>
       <li><strong>Flutter</strong></li>
@@ -14,10 +14,11 @@
     </ul>
   </div>
 
-  <div style="flex: 1; text-align: right;">
+  <div style="text-align: right;">
     <img src="assets/sentry-engineer.gif" alt="Sentry Engineer GIF" width="300">
   </div>
 </div>
+
 
 
 
