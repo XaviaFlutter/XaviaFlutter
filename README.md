@@ -1,6 +1,8 @@
 ![баннер](assets/profile_banner.png)
 
-## Всем ку 
+Энтузиаст, самоучка и начинающий Flutter-разработчик.
+---
+
 
 <!--
 **XaviaFlutter/XaviaFlutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
